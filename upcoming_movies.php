@@ -39,10 +39,10 @@ curl_close($ch);
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" href="upcoming_movies.php">Upcoming Movies</a>
+                        <a class="nav-link" href="upcoming_movies.php">Upcoming Movies</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="top_rated_movie.php">Top Rated Movies</a>
+                        <a class="nav-link active" href="top_rated_movie.php">Top Rated Movies</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="search.php">Search Movies</a>
