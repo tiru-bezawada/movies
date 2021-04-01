@@ -44,6 +44,9 @@ curl_close($ch);
                     <li class="nav-item">
                         <a class="nav-link" href="top_rated_movie.php">Top Rated Movies</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="search.php">Search Movies</a>
+                    </li>
                 </ul>
             </div>
         </div>
