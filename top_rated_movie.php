@@ -90,18 +90,7 @@ curl_close($ch);
 
    
         
-    <div class="container">
-        <div class="pagination_section">
-            <a href="#">
-                << Previous</a>
-                    <a href="#" title="Algorithm">1</a>
-                    <a href="#" title="DataStructure">2</a>
-                    <a href="#" title="Languages">3</a>
-                    <a href="#" title="Interview" class="active">4</a>
-                    <a href="#" title="practice">5</a>
-                    <a href="#">Next >></a>
-        </div>
-    </div>
+ 
     <script>
         $(document).ready(function() {
             $('[data-toggle="tooltip"]').tooltip();
